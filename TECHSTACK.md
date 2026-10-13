@@ -1,18 +1,10 @@
 # 🛠️ التقنيات المستخدمة — تطبيق إدارة المهام والمشاريع
 
-### الواجهة الأمامية (Frontend)
 - Flutter
-### الخلفية (Backend)
-- Node.js API
-### قواعد البيانات والتخزين
-- PostgreSQL
-- Local Cache (Offline)
-### الاتصال اللحظي / الرسائل
-- WebSocket
-### أدوات مساندة (في كل المشاريع)
-- **Git** لإدارة الإصدارات مع نموذج Branching منظم (Feature Branches + Pull Requests)
-- **اختبارات آلية**: اختبارات وحدة (Unit Tests) للمنطق الحساس، واختبارات تكامل (Integration Tests) لنقاط الـ API الأساسية
-- **مراقبة وتسجيل (Logging & Monitoring)**: تجميع مركزي للسجلات وتنبيهات عند تجاوز حدود معينة في الأداء أو الأخطاء
-
----
-*جزء من [توثيق المشروع الكامل](./PROJECT.md)*
+- Dart
+- BLoC
+- Hive
+- Dio
+- WorkManager
+- Docker
+- GitHub Actions
