@@ -1,21 +1,20 @@
-# تطبيق إدارة المهام والمشاريع
-**Task & Project Management Mobile Application** · التصنيف: موبايل (Flutter)
+# Task & Project Management Mobile Application
+**Task & Project Management Mobile Application** · Category: Mobile (Flutter)
 
-> هذا المشروع خاص بشركة/عميل محدد، والكود المصدري غير منشور.
 > Private client work — the source code is not public.
 
-## نبذة عن المشروع
-تطبيق Kanban تشاركي بسحب وإفلات 60fps ومزامنة Offline-First.
+## Project Overview
+Collaborative Kanban application with 60fps drag-and-drop and Offline-First synchronization.
 
-## أبرز النقاط
-- Clean Architecture كاملة مع BLoC Presentation
-- WorkManager للمزامنة الخلفية للبيانات
-- Docker CI/CD عبر GitHub Actions لبيئات بناء متسقة
+## Highlights
+- Full Clean Architecture with BLoC presentation
+- WorkManager for background data synchronization
+- Docker CI/CD via GitHub Actions for consistent build environments
 
-## الدور
-مطوّر تطبيقات موبايل (Flutter): بناء التطبيق وإدارة الحالة والتكامل مع الخدمات الخلفية والنشر على المتاجر.
+## Role
+Mobile Application Developer (Flutter): building the app, state management, integration with backend services, and publishing to app stores.
 
-## التقنيات المستخدمة
+## Technologies
 Flutter, Dart, BLoC, Hive, Dio, WorkManager, Docker, GitHub Actions
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — تطبيق إدارة المهام والمشاريع
+# 🛠️ Technologies Used — Task & Project Management Application
 
 - Flutter
 - Dart
